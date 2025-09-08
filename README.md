@@ -1,1 +1,1 @@
-# llm_rag_cpp
+# Project for Learning LLMs and RAG in C++
